@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/05/04 13:06:40.000.647,=C:\Users\Jonatan Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/21 13:42:11.000.877,=C:\Users\Jonatan Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/12/10 10:54:16.000.605,=C:\Users\Jonatan Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/12/10 10:54:32.000.415,C:\Users\Jonatan Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Jonatan Souza\Desktop\MaterialDesignDialogs\U_Principal.pas</Transaction>
+    <Transaction>2016/12/10 10:54:32.000.415,C:\Users\Jonatan Souza\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Jonatan Souza\Desktop\MaterialDesignDialogs\U_Principal.fmx</Transaction>
+    <Transaction>2016/12/10 10:55:37.000.598,C:\Users\Jonatan Souza\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Jonatan Souza\Desktop\MaterialDesignDialogs\PrjDialogs.dproj</Transaction>
+    <Transaction>2016/12/10 10:55:41.000.290,=C:\Users\Jonatan Souza\Desktop\MaterialDesignDialogs\U_MsgD.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PIOS-TWT iOSSimulator="iPhone5" iOSDevice32="_iosdevice_636e3faaab8d66990b38ddc6b31a749c57a81de8" iOSDevice64="_iosdevice_636e3faaab8d66990b38ddc6b31a749c57a81de8"/>
+		<NoProfile Android="0017033967"/>
+	</ActiveMobileDevice>
+</BorlandProject>
